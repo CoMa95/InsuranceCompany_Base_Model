@@ -20,3 +20,4 @@ class s3_connector:
     def write(self, file_name):
         boto3.Session().resource('s3').Bucket(self.mybucket).Object(os.path.join(self.up_folder, 
             file_name)).upload_file(file_name)
+
