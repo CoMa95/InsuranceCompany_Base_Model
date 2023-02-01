@@ -1,4 +1,4 @@
-# Project_1_Insurance_Base_Model
+# InsuranceCompany_Base_Model
 
 Repository for the work done at AIBrain Hub for the car insurance company 'EZ Insure'.
 
